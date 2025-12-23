@@ -35,6 +35,7 @@ PREREQUISITE
 - Clean CSV/Excel file
 - Power BI: Install Power BI Desktop (free). Sign in with a Microsoft account.
 
+<img width="1305" height="731" alt="Image" src="https://github.com/user-attachments/assets/f6adaa24-d3fb-47dc-8346-2a907e3aa9c6" />
 
 **DESCRIPTION ABOUT THE DASHBOARD:
 
